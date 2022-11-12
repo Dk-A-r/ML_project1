@@ -10,8 +10,8 @@
 принять условия лицензии
 на сайтах: https://huggingface.co/CompVis/stable-diffusion-v1-4
 https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
-после этого залогиниться: huggingface-cli login
-в терминале может быть ошибка, для её устранения
+после этого залогиниться: huggingface-cli login <br>
+В терминале может быть ошибка, для её устранения
 следует запустить терминал от администратора
 потом скопировать токен
 потом подождать ~5 минут
